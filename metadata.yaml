@@ -3,7 +3,7 @@ composer:
   first: František Ludvík
 title: Litaniæ lauretanæ
 genre: litany
-scoring: scoring: S, A, T, B (solo), S, A, T, B (coro), 2 ob, 2 vl, vla, b, org
+scoring: S, A, T, B (solo), S, A, T, B (coro), 2 ob, 2 vl, vla, b, org
 license: cc-by-sa-4.0
 sources:
   B1:
@@ -14,14 +14,16 @@ sources:
     url: https://digital.slub-dresden.de/id426605195
     license: public domain
     principal: true
-  B1:
+  B2:
     siglum: D-Dl
     shelfmark: Mus.3610-E-2a
     date: 1730–1744
     rism: 212006842
     url: https://digital.slub-dresden.de/id426607929
     license: public domain
-    notes: contains the following parts (pages in digital version are indicated):\\
+    notes: |
+      contains the following parts
+      (pages in digital version are indicated):\\
       1 × ob 1 (65–68)\\
       1 × ob 2 (69–72)\\
       3 × vl 1 (29–32, 33–36, 37–40)\\
@@ -30,7 +32,7 @@ sources:
       2 × S (5–7 solo, 21f ripien)\\
       2 × A (9–12 solo, 23f ripieno)\\
       2 × T (13–15 solo, 25f ripieno)\\
-      2 × B (17–19 solo, 27f ripieno)\\
+      2 × B (17–19, 27f ripieno)\\
       1 × vlc (51–54)\\
       1 × vlne (55f)\\
       2 × fag (73f, 75f)\\

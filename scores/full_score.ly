@@ -6,7 +6,7 @@
 \book {
   \bookpart {
     \section "Litaniæ lauretanæ"
-    % \addTocEntry
+    \addTocEntry
     \paper { indent = 3\cm }
     \score {
       <<
@@ -38,6 +38,10 @@
           \new Staff {
             \set Staff.instrumentName = "Viola"
             \LitaniaeViola
+          }
+          \new Staff {
+            \set Staff.instrumentName = \markup \center-column { "Violone" "e Fagotto" "ripieno" }
+            \LitaniaeViolone
           }
         >>
         \new ChoirStaff <<
@@ -75,7 +79,7 @@
         \new FiguredBass { \LitaniaeBassFigures }
       >>
       \layout { }
-      \midi { \tempo 4 = 90 }
+      \midi { \tempo 4 = 80 }
     }
   }
 }
